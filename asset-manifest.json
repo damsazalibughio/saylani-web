@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/saylani-web/static/css/main.08eb6d1d.chunk.css",
+    "main.js": "/saylani-web/static/js/main.3bab0849.chunk.js",
+    "main.js.map": "/saylani-web/static/js/main.3bab0849.chunk.js.map",
+    "runtime-main.js": "/saylani-web/static/js/runtime-main.64429a85.js",
+    "runtime-main.js.map": "/saylani-web/static/js/runtime-main.64429a85.js.map",
+    "static/css/2.a2bc7d03.chunk.css": "/saylani-web/static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.0ca28759.chunk.js": "/saylani-web/static/js/2.0ca28759.chunk.js",
+    "static/js/2.0ca28759.chunk.js.map": "/saylani-web/static/js/2.0ca28759.chunk.js.map",
+    "static/js/3.bf0c09ba.chunk.js": "/saylani-web/static/js/3.bf0c09ba.chunk.js",
+    "static/js/3.bf0c09ba.chunk.js.map": "/saylani-web/static/js/3.bf0c09ba.chunk.js.map",
+    "index.html": "/saylani-web/index.html",
+    "service-worker.js": "/saylani-web/service-worker.js",
+    "service-worker.js.map": "/saylani-web/service-worker.js.map",
+    "static/css/2.a2bc7d03.chunk.css.map": "/saylani-web/static/css/2.a2bc7d03.chunk.css.map",
+    "static/css/main.08eb6d1d.chunk.css.map": "/saylani-web/static/css/main.08eb6d1d.chunk.css.map",
+    "static/js/2.0ca28759.chunk.js.LICENSE.txt": "/saylani-web/static/js/2.0ca28759.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64429a85.js",
+    "static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.0ca28759.chunk.js",
+    "static/css/main.08eb6d1d.chunk.css",
+    "static/js/main.3bab0849.chunk.js"
+  ]
+}
